@@ -1,4 +1,4 @@
-# 🏥 MedSync FLM Healthcare Management System
+# 🏥 MedSync  Healthcare Management System
 
 A secure and extensible Spring Boot-based backend for managing healthcare staff, users, and authentication flows. Built with modern best practices including JWT-based authentication, role-based authorization, Swagger documentation, and modular service layers.
 
